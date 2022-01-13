@@ -47,7 +47,7 @@ Through LocoMoco, our team wants to inject funding into local restaurants to con
 
 ## How it works[![](./LocoMoco-Contracts/docs/imgs/pin.svg)](#how-it-works)
 
-![](./docs/imgs/how-it-works.png)
+![](./LocoMoco-Contracts/docs/imgs/how-it-works.png)
 
 ---
 
@@ -55,7 +55,7 @@ Through LocoMoco, our team wants to inject funding into local restaurants to con
 
 LocoMoco consists of:
 1. A [Website](https://harmony-one-web.vercel.app/) for restaurants to mint and customers to purchase NFTs. It is built using Typescript, React, and Web3 technology.
-2. [Smart Contracts](FILL IN RELATIVE GITHUB PATH) to facilitate the creation, transaction, and delivery of NFTs between restaurants and supporters on the Harmony testnet.
+2. [Smart Contracts](https://github.com/Harmony-One-Hackathon/LocoMoco/tree/main/LocoMoco-Contracts) to facilitate the creation, transaction, and delivery of NFTs between restaurants and supporters on the Harmony testnet.
 
 ---
 
