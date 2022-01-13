@@ -1,0 +1,53 @@
+.navbar {
+  padding: 2rem 6rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-family: "Rubik_Mono_One";
+  transition: 0.2s;
+}
+
+.logo > a {
+  color: #1c1d21;
+  text-decoration: none;
+}
+
+.logo:hover {
+  opacity: 0.7;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.navItem {
+  margin-right: 4rem;
+  transition: 0.2s;
+}
+
+.navItem > a {
+  color: #1c1d21;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.navItem:hover {
+  opacity: 0.7;
+}
+
+.button {
+  padding: 1rem 3rem;
+  background: #1c1d21;
+  color: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.8;
+}

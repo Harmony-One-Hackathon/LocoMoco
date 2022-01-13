@@ -1,0 +1,12 @@
+.container {
+  padding: 2rem 5rem;
+  border: 2rem black solid;
+  background: white;
+  text-align: center;
+}
+
+.container h2 {
+  font-family: "Rubik_Mono_One";
+  font-size: 1.75rem;
+  margin-bottom: 3rem;
+}

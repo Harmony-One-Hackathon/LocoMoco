@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Rubik_Mono_One";
+  src: url("../fonts/Rubik_Mono_One/RubikMonoOne-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Rubik_Regular";
+  src: url("../fonts/Rubik/static/Rubik-Regular.ttf") format("truetype");
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Rubik_Regular", -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+  background-color: #f2da93;
+  overflow-x: hidden;
+}

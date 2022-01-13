@@ -1,0 +1,62 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #232121;
+  height: 100vh;
+}
+
+.imageContainer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.checkoutContainer {
+}
+
+.title {
+  font-family: "Rubik_Mono_One";
+  margin: 0;
+  padding: 0 6rem;
+  color: white;
+}
+
+.description {
+  width: 60%;
+  padding: 0 6rem;
+  color: gray;
+}
+
+.pricing {
+  padding: 0 3rem 0 6rem;
+  color: white;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.button {
+  background-color: #eeb03d;
+  border-radius: 2rem;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.7;
+}
+
+.walletButton {
+  position: absolute;
+  top: 2rem;
+  left: 6rem;
+  background-color: #eeb03d;
+  border-radius: 2rem;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
